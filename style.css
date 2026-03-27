@@ -23,7 +23,6 @@ background-color: cadetblue;
 gap:20px;
 }
 
-
 #Container:hover{
     box-shadow: 0 0  10px rgb(18, 18, 104);
     transition: box-shadow 0.3s ease;
@@ -40,7 +39,7 @@ span{
 max-width:450px;
 display: flex;
 justify-content: center;
-font-family:cursive ;
+font-family:sans-serif ;
 font-size: 15px;
 font-weight: 600;
 color: rgb(24, 4, 70);
